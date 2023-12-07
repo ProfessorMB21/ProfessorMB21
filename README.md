@@ -88,12 +88,7 @@
 </div>
 
 <br>
-<br>
-<br>
-
 -----
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -114,9 +109,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-<a href="https://holopin.me/ProfessorMB21" target="_blank"><img src="https://holopin.me/ProfessorMB21" width="375" alt="holopin-badge"></a>
 <!--
 **ProfessorMB21/ProfessorMB21** is a ✨ _special_ ✨ repository because it contains `README.md` (this file) which appears on your GitHub profile.
 
