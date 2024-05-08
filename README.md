@@ -65,6 +65,7 @@
   </tr>
 </thead>
 </table>
+
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ProfessorMB21&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </div>
