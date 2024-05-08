@@ -51,26 +51,21 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 <div align="center">
-
   <a href="https://github.com/ProfessorMB21/">
 <table>
 <thead>
   <tr>
     <th>
-       <img src="https://github-readme-stats.vercel.app/api?username=ProfessorMB21&count_private=true&theme=onedark" alt="Javier's GitHub stats">
+       <img src="https://github-readme-stats.vercel.app/api?username=ProfessorMB21&count_private=true&theme=tokyonight&show_icons=true" alt="ProfessorMB21's GitHub stats">
     </th>
     <th>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorMB21&count_private=true&theme=onedark" alt="Javier's GitHub streak">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorMB21&count_private=true&theme=onedark" alt="ProfessorMB21's GitHub streak">
     </th>
   </tr>
 </thead>
 </table>
-
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ProfessorMB21&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://raw.githubusercontent.com/ProfessorMB21/ProfessorMB21-metrics/main/github-metrics.svg)
   </a>
 </div>
 
