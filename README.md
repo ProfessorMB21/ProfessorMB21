@@ -53,24 +53,30 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
-
   <a href="https://github.com/ProfessorMB21/">
-    <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
-    </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ProfessorMB21&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProfessorMB21&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ProfessorMB21"/>
+<table>
+<thead>
+  <tr>
+    <th>
+       <img src="https://github-readme-stats.vercel.app/api?username=ProfessorMB21&count_private=true&theme=tokyonight&show_icons=true" alt="ProfessorMB21's GitHub stats">
+    </th>
+    <th>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorMB21&count_private=true&theme=onedark" alt="ProfessorMB21's GitHub streak">
+    </th>
+  </tr>
+</thead>
+</table>
+
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ProfessorMB21&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-  <ul>
-    <li>
+  <ol>
+    <li style="display: inline-flex; margin-right: 10px;">
       <a href="mailto:profbupeeli@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail:   Bupe Mwansa-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
       </a>
@@ -80,7 +86,7 @@
         <img src="https://img.shields.io/badge/twitter:   Bupe Mwansa-%23EA4335.svg?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
       </a>
     </li>
-  </ul>
+  </ol>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
