@@ -7,14 +7,14 @@
 </p>
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = !["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif) width = 50px></picture> **About me**
 <br>
 <img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
 
 - 🙈 A passionate self-taught programmer.
 - 👨‍🎓 Cohort 17 | Software Engineering | Alx Africa.
-- 🌱 I’m currently learning C++.
-- 👯 I’m looking to collaborate on C/C++ projects.
+- 🌱 I’m currently learning C#.
+- 👯 I’m looking to collaborate on C/C++/C#/Python projects.
 - 😄 Pronouns: He/Him.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
