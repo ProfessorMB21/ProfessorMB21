@@ -7,7 +7,8 @@
 </p>
 <br>
 	
-## <picture><img src = !["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif) width = 50px></picture> **About me**
+## <img src = !["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif) height="40"/>
+ **About me**
 <br>
 <img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
 
