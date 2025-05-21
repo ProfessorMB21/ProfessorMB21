@@ -7,8 +7,10 @@
 </p>
 <br>
 	
-## <picture><img src = !["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif) width = 50px></picture> **About me**
+## <picture>!["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)</picture> 
+**About me**
 <br>
+[![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)](https://wakatime.com/@47395a4a-f679-4221-9d17-ad22a0699c6a)
 <img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
 
 - 🙈 A passionate self-taught programmer.
@@ -70,6 +72,9 @@
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ProfessorMB21&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfessorMB21)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorMB21&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)]
 </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
