@@ -74,7 +74,6 @@
   </a>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfessorMB21)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorMB21&layout=compact)
-[![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)]
 </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
