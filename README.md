@@ -7,7 +7,8 @@
 </p>
 <br>
 	
-## <picture>!["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)</picture> **About me**
+## <picture>!["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)</picture> 
+**About me**
 <br>
 [![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)](https://wakatime.com/@47395a4a-f679-4221-9d17-ad22a0699c6a)
 <img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
