@@ -15,8 +15,8 @@
 
 - 🙈 A passionate self-taught programmer.
 - 👨‍🎓 Cohort 17 | Software Engineering | Alx Africa.
-- 🌱 I’m currently learning C#.
-- 👯 I’m looking to collaborate on C/C++/C#/Python projects.
+- 🌱 I’m currently learning Kotlin.
+- 👯 I’m looking to collaborate on C/C++/C#/Python/Kotlin projects.
 - 😄 Pronouns: He/Him.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
