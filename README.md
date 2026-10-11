@@ -1,108 +1,128 @@
-
-<h1 align="center"><b>Hi , I'm Bupe Mwansa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student,;Student+at+Alx_africa,;Self-taught+Programmer,;I+Love+C..&hearts;++;Active+Learner/Researcher,;Love+to+code..<3">
-  </a>
-</p>
-<br>
-	
-## <picture>!["https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)</picture> 
-**About me**
-<br>
-[![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)](https://wakatime.com/@47395a4a-f679-4221-9d17-ad22a0699c6a)
-<img src="https://komarev.com/ghpvc/?username=ProfessorMB21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"/>
-
-- 🙈 A passionate self-taught programmer.
-- 👨‍🎓 Cohort 17 | Software Engineering | Alx Africa.
-- 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on C/C++/C#/Python/Kotlin projects.
-- 😄 Pronouns: He/Him.
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Stack**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/C++%20-%232370ED.svg?style=for-the-badge&logo=c++&logoColor=red) ![Delphi](https://img.shields.io/badge/delphi-167C80?style=for-the-badge&logo=delphi&logoColor=blue)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-	![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
-  ![Debeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-  
-- **Software and Tools**:<br>
-    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-	![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-	![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-    ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-    ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Kali Linux](https://img.shields.io/badge/KaliLinux-E95420?style=for-the-badge&logo=kalilinux&logoColor=white)
-    ![ParrotOS](https://img.shields.io/badge/parrotos-167C80?style=for-the-badge&logo=parrotos&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-    ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-    ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![GODOT](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) 
-
-
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
-  <a href="https://github.com/ProfessorMB21/">
-<table>
-<thead>
-  <tr>
-    <th>
-       <img src="https://github-readme-stats.vercel.app/api?username=ProfessorMB21&count_private=true&theme=tokyonight&show_icons=true" alt="ProfessorMB21's GitHub stats">
-    </th>
-    <th>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorMB21&count_private=true&theme=onedark" alt="ProfessorMB21's GitHub streak">
-    </th>
-  </tr>
-</thead>
-</table>
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ProfessorMB21&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  </a>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfessorMB21)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorMB21&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-enhanced-cyber-dark.svg">
+  <img src="assets/header-enhanced-cyber.svg" alt="Bupe Mwansa - Mathematics and Computer Science Undergrad" width="100%">
+</picture>
+
 </div>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-  <ol>
-    <li style="display: inline-flex; margin-right: 10px;">
-      <a href="mailto:profbupeeli@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail:   Bupe Mwansa-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
-      </a>
-    </li>
-    <li>
-      <a href="https://x.com/professor_bupe" target="_blank">
-        <img src="https://img.shields.io/badge/twitter:   Bupe Mwansa-%23EA4335.svg?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-  </ol>
+<div align="center">
+
+<a href="https://github.com/ProfessorMB21">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-ProfessorMB21-ffffff?style=flat-square&logo=github&logoColor=0F172A">
+    <img src="https://img.shields.io/badge/GITHUB-ProfessorMB21-0F172A?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub">
+  </picture>
+</a>
+
+<a href="mailto:profbupeeli@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-profbupeeli@gmail.com-10B981?style=flat-square&logo=gmail&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/EMAIL-profbupeeli@gmail.com-10B981?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email">
+  </picture>
+</a>
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--
-**ProfessorMB21/ProfessorMB21** is a ✨ _special_ ✨ repository because it contains `README.md` (this file) which appears on your GitHub profile.
--->
+
+---
+
+### Activity Tracking
+
+[![wakatime](https://wakatime.com/badge/user/47395a4a-f679-4221-9d17-ad22a0699c6a.svg)](https://wakatime.com/@47395a4a-f679-4221-9d17-ad22a0699c6a)
+
+---
+
+## 🚀 Currently Working On
+
+- **Data Science & Machine Learning** — Building models and exploring AI/ML applications with Python
+- **Backend Development** — Designing scalable systems with databases, APIs, and modern architectures
+- **Mobile Development** — Learning Flutter & Jetpack Compose for cross-platform applications
+
+---
+
+## 🛠 Skills & Tech Stack
+
+### 📝 Languages
+
+![C](https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D9488?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-34D399?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-10B981?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D9488?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-34D399?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-10B981?style=for-the-badge&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-0D9488?style=for-the-badge&logo=r&logoColor=white)
+
+### 🎨 Frontend & Mobile
+
+![HTML5](https://img.shields.io/badge/HTML5-34D399?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-10B981?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0D9488?style=for-the-badge&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-34D399?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 🗄️ Databases & Backend
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0D9488?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-34D399?style=for-the-badge&logo=docker&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-10B981?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### 💻 Development Tools & Editors
+
+![Vim](https://img.shields.io/badge/Vim-0D9488?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-34D399?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-10B981?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-0D9488?style=for-the-badge&logo=pycharm&logoColor=white)
+
+![RStudio](https://img.shields.io/badge/RStudio-34D399?style=for-the-badge&logo=rstudio&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-10B981?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D9488?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-34D399?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🎮 Game Engines
+
+![Unity](https://img.shields.io/badge/Unity-10B981?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-0D9488?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### 🖥️ Operating Systems & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-34D399?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-10B981?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-0D9488?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-34D399?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-10B981?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0D9488?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-34D399?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+Track my coding activity and contributions:
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfessorMB21&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/ProfessorMB21)
+
+</div>
+
+<div align="center">
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProfessorMB21&count_private=true&theme=onedark)](https://github.com/ProfessorMB21)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorMB21&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🎨 Crafted by 💚 Ghosted</sub><br>
+</div>
+
